@@ -10,7 +10,7 @@ I worked with real APIs For this week's assignment  to fetch,process and save da
 - `dummyjson_products.csv`
 - `dummyjson_carts.csv`
 
-## Quick Snippet
+## Quick review
 ```python
 import requests, pandas as pd
 
