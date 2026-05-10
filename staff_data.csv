@@ -1,0 +1,52 @@
+employee_id,first_name,last_name,gender,job_title,department,salary,email,phone_number
+1,Camila,Gilkes,Female,Statistician II,Engineering,33127.57,cgilkes0@salon.com,181-221-2074
+2,Elton,Lumsdall,Male,Operator,Product Management,95400.16,elumsdall1@microsoft.com,274-986-9889
+3,Cherise,Brockman,Female,Analyst Programmer,Legal,89589.34,cbrockman2@trellian.com,284-449-7915
+4,Kean,Muff,Male,Social Worker,Legal,97497.15,kmuff3@posterous.com,722-899-0644
+5,Ali,Townsley,Female,Senior Sales Associate,Accounting,53710.72,atownsley4@ed.gov,351-800-4201
+6,Paula,Goomes,Female,Web Developer II,Training,45619.47,pgoomes5@washingtonpost.com,667-124-5206
+7,Rina,Asquez,Female,Editor,Product Management,79082.65,rasquez6@sphinn.com,232-575-8451
+8,Niko,MacLardie,Male,Assistant Manager,Product Management,70282.33,nmaclardie7@smh.com.au,205-606-5455
+9,Amabelle,Spohr,Female,Project Manager,Engineering,52778.71,aspohr8@tuttocitta.it,684-346-6279
+10,Esta,Ethington,Female,VP Accounting,Marketing,56397.3,eethington9@booking.com,979-222-9719
+11,Sigmund,Quantrell,Male,Geological Engineer,Legal,53999.47,squantrella@wisc.edu,616-942-5327
+12,Normie,Bridal,Male,Occupational Therapist,Marketing,82882.99,nbridalb@oaic.gov.au,795-703-1382
+13,Lurleen,Itzakson,Female,Health Coach III,Marketing,70975.02,litzaksonc@scribd.com,262-578-0145
+14,Lucky,Rout,Female,Staff Accountant III,Marketing,85952.55,lroutd@dropbox.com,446-992-2388
+15,Charo,Bolliver,Bigender,VP Product Management,Marketing,98146.31,cbollivere@shop-pro.jp,872-939-1938
+16,Leland,Josipovic,Genderqueer,Senior Sales Associate,Support,70128.09,ljosipovicf@alexa.com,112-205-2487
+17,Aurelea,Lambirth,Non-binary,Food Chemist,Support,94832.37,alambirthg@phoca.cz,285-303-1037
+18,Amelia,Broune,Female,Sales Associate,Training,31081.31,abrouneh@xing.com,674-844-4230
+19,Griff,Patesel,Male,Sales Associate,Legal,69013.76,gpateseli@pen.io,790-594-4920
+20,Osbourn,Tann,Agender,Systems Administrator III,Services,42007.61,otannj@mapy.cz,509-673-9611
+21,August,Schrir,Agender,Research Nurse,Engineering,91140.48,aschrirk@pbs.org,407-265-5205
+22,Annalise,Stanning,Female,Dental Hygienist,Accounting,63118.97,astanningl@surveymonkey.com,370-883-1561
+23,Maegan,Babon,Female,Technical Writer,Training,65250.94,mbabonm@spotify.com,870-128-8465
+24,Arden,Ellerby,Female,Environmental Tech,Business Development,60297.4,aellerbyn@e-recht24.de,787-129-5083
+25,Nona,Wathen,Female,Senior Quality Engineer,Product Management,46345.63,nwatheno@alexa.com,153-364-4324
+26,Anson,Daubeny,Male,Human Resources Manager,Engineering,34582.68,adaubenyp@examiner.com,726-378-3031
+27,Dorine,Glashby,Female,Analog Circuit Design manager,Accounting,79821.57,dglashbyq@accuweather.com,277-872-8655
+28,Lezley,Gozney,Male,Assistant Manager,Marketing,40914.99,lgozneyr@weebly.com,416-992-9776
+29,Charmine,Branchflower,Female,Environmental Specialist,Human Resources,51486.95,cbranchflowers@si.edu,979-548-1055
+30,Thea,Crammy,Female,Pharmacist,Product Management,93531.41,tcrammyt@hhs.gov,448-264-6231
+31,Gwendolyn,Loveredge,Female,Marketing Assistant,Engineering,48122.29,gloveredgeu@icq.com,951-369-2774
+32,Fredelia,Filyashin,Genderqueer,Software Consultant,Marketing,64415.01,ffilyashinv@furl.net,374-408-3392
+33,Avril,Goulborn,Bigender,Project Manager,Product Management,85149.7,agoulbornw@a8.net,947-244-4058
+34,Tait,Goldsbury,Male,Geological Engineer,Sales,68557.79,tgoldsburyx@people.com.cn,490-838-0628
+35,Henrie,Ollive,Female,Nuclear Power Engineer,Training,39576.46,hollivey@walmart.com,275-644-4172
+36,Valdemar,Yates,Male,Software Consultant,Legal,31059.29,vyatesz@washington.edu,582-194-1422
+37,Raeann,O'Hagan,Female,Help Desk Operator,Engineering,54164.59,rohagan10@shop-pro.jp,803-983-7224
+38,Claire,Tocknell,Male,Human Resources Manager,Accounting,30714.42,ctocknell11@surveymonkey.com,987-427-2758
+39,Barclay,Burtonwood,Male,Environmental Specialist,Business Development,81547.38,bburtonwood12@admin.ch,839-145-9937
+40,Ilyse,Shute,Female,Quality Control Specialist,Training,96571.29,ishute13@ocn.ne.jp,228-211-2898
+41,Koenraad,Dowd,Male,Human Resources Manager,Business Development,95187.98,kdowd14@devhub.com,366-995-2744
+42,Jaimie,Gleed,Male,Health Coach I,Marketing,65578.35,jgleed15@columbia.edu,221-152-3371
+43,Ermanno,Fouracre,Male,Office Assistant IV,Training,49949.44,efouracre16@alibaba.com,811-841-8513
+44,Abbie,Burgum,Male,Quality Engineer,Human Resources,53663.39,aburgum17@samsung.com,325-275-8181
+45,Nathalia,Conn,Female,Assistant Professor,Product Management,93696.05,nconn18@g.co,673-512-3131
+46,Sorcha,Schoroder,Female,Sales Associate,Business Development,68866.99,sschoroder19@360.cn,201-196-1556
+47,Kara-lynn,Boatman,Female,Senior Quality Engineer,Training,81640.15,kboatman1a@usnews.com,524-939-0104
+48,Mariellen,Dust,Female,VP Product Management,Support,78277.94,mdust1b@npr.org,327-752-4996
+49,Shelby,Filyushkin,Female,Desktop Support Technician,Product Management,36158.25,sfilyushkin1c@redcross.org,650-317-1136
+50,Alica,Keyse,Female,Recruiting Manager,Services,68781.55,akeyse1d@reuters.com,188-447-5505
+51,Spence,Withrington,Male,Assistant Media Planner,Human Resources,31536.94,swithrington1e@blogtalkradio.com,267-869-7181
